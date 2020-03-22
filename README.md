@@ -27,8 +27,8 @@ npm install package.json
  
 ## Special Features
 Employee name search and sort table by any column:
-Click any header to sort.
-Keystoke in search box starts search
+ - Click any header to sort.
+ - Keystoke in search box starts search
 
 
  
