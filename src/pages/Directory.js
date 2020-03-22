@@ -1,14 +1,8 @@
 import React from "react";
 import Container from "../components/Container";
+import Row from "../components/Row";
 
-const Row = ({id, name, department, role}) => (
-  <tr>
-    <td>{id}</td>
-    <td>{name}</td>
-    <td>{department}</td>
-    <td>{role}</td>   
-  </tr>
-);
+
 
 class Table extends React.Component {
   constructor(props) {
