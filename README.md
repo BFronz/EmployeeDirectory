@@ -1,6 +1,6 @@
 ## Employee Directory
 
-Application is a React employee directory use to get quick access to employee data with sort and search features. 
+Application is a React employee directory used to get quick access to employee data with sort and search features. 
 
 ```
 Run  on command line: npm start
@@ -18,16 +18,15 @@ npm install package.json
 ## Built With
 * HTML
 * CSS
-* Javascript
+* JavaScript
 * React
-* Express
 * Bootstrap
 
 
  
 ## Special Features
 Employee name search and sort table by any column:
- - Click any header to sort.
+ - Click any header to sort
  - Keystoke in search box starts search
 
 
